@@ -14,13 +14,13 @@
         "homepage": "https://basecode.sh"
     }, {
         "name": "Ben Miller",
-        "email": "benjivm@mail.sfsu.edu",
+        "email": "benjivm@protonmail.com",
         "homepage": "https://ben-miller.com"
     }],
     "require": {
         "php": "^7.3",
-        "illuminate/support": "^6.0|^7.0",
-        "illuminate/database": "^6.0|^7.0",
+        "illuminate/support": ">=7.0",
+        "illuminate/database": ">=7.0",
         "kalnoy/nestedset": "^5.0"
     },
     "require-dev": {
