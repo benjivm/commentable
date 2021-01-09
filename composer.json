@@ -18,7 +18,7 @@
         "homepage": "https://ben-miller.com"
     }],
     "require": {
-        "php": "^7.3",
+        "php": ">=7.3",
         "illuminate/support": ">=7.0",
         "illuminate/database": ">=7.0",
         "kalnoy/nestedset": "^5.0"
